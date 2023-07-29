@@ -1,1 +1,1 @@
-# lineal-clasification-base
+# linear-clasification-base
